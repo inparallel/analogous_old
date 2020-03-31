@@ -1,0 +1,10 @@
+# ide dumps
+.idea
+.vscode
+    
+# cmake build dirs
+cmake-build-debug
+cmake-build-release
+
+# Playgound stays here
+src/cmd/play.cpp
