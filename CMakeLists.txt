@@ -7,6 +7,9 @@ set (CMAKE_CXX_STANDARD 20)
 link_directories (vendor/usr/local/lib)
 include_directories (vendor/usr/local/include)
 
+# Local include dirs
+include_directories (src/libs)
+
 add_subdirectory (src)
 add_subdirectory (tests)
 
