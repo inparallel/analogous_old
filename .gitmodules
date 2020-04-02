@@ -1,0 +1,3 @@
+[submodule "extern/reproc"]
+	path = extern/reproc
+	url = https://github.com/DaanDeMeyer/reproc.git

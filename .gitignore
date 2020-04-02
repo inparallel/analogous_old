@@ -5,6 +5,11 @@
 # cmake build dirs
 cmake-build-debug
 cmake-build-release
+build
+
+# Vendor builds aren't included
+vendor/usr
 
 # Playgound stays here
 src/cmd/play.cpp
+
